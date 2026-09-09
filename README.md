@@ -1,5 +1,5 @@
 
-# Delamere Aerospace Vanilla Weapons Unlock
+# Vanilla Weapons Unlock
 ## Installation
 1. Download the latest version from the Releases tab.
 3. Place the .nobp file in `NuclearOption/Bepinex/plugins`, with Blueprinter enabled.
